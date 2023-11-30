@@ -1,3 +1,3 @@
 # E-PORTFOLIO-SECP1513
 
-https://github.com/JWEN0518/E-PORTFOLIO-SECP1513/tree/6b64d0b921c59a8a1cb6a5b6e1817d1be8abbc16
+![Assignment 1 Poster Group 1](https://github.com/JWEN0518/E-PORTFOLIO-SECP1513/assets/152403691/bdd8376b-0069-41cc-9da2-c341629c3638)
