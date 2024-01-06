@@ -1,36 +1,3 @@
-# CS Hub ePortfolio Workshops
-
-Welcome!
-
-Over here, you will find information and shared resources for the ePortfolio workshops that CS Hub is hosting @ York University on the winter of 2016
-
-We will be covering the basics (and sometimes advanced topics) of front-end web development, with emphasis on tools and technologies which you can use to easily create an online portfolio. The series are broken into 3 workshops, each with its own topics. We will keep you updated (dates, rooms, topics, etc.) through this page, so make sure to bookmark it.
-
------
-
-## Updates  
-
-* Now that workshop 1 is done, you can find information about it inside the folder (conveniently named) "Workshop1". We hope that the workshop was useful, and wish to see you in workshop 2!  
-* Location and time set for workshop 2! check the details below.
-* Information, sample documents, and links for workshop 2 is up inside "Workshop2" folder. Check it out!
-* Location and time set for workshop 3! check the details below.
-* Workshop 3 is done! and with it, we wrap up the series. We hope that everyone learned something, and we look forward to seeing you in future events
-
------  
-
-## Q & A
-
-**Q** Who are the targeted audience of these workshops?  
-**A** Generally speaking, anyone who likes to code. More specifically, YorkU students in a computer programming major.
-
-
-**Q** Are there any prerequisites (knowledge-wise)?  
-**A** Know your way around a computer as a user, have a text editor and a browser, and be passionate about computer programming. That's all you gonna need.
-
------
-
-
-## The Workshops
 
 ### Workshop 1 (The Basics)
 **Where?** 217 Bergeron Centre.  
