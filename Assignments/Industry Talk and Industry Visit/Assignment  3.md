@@ -3,15 +3,6 @@
    In this report, we are discussing the process of design thinking and the problems that people are facing nowadays. The title of our design thinking is ‘Smart Helmet’. We have used the helmet that already exists in the market and evolved it to become a product that is more satisfying to customer’s needs. Our purpose in doing this ‘Smart Helmet’ is safety first. Motorcycles are used as a means of transportation. It is an indispensable thing in our daily life. When we are riding a motorcycle, the most important step is to wear a helmet to prevent injury to our brain. During the research, we found that in Malaysia there have been a lot of motorcycle accident cases. To worsen the situation, some people may lose their lives in motorcycle accidents. We found that the main reasons why the accident happened were the road conditions and the weather. It is very dangerous when the rider is riding on a rainy day because the motorcycle can’t be controlled easily by the rider on a winding road or due to some emergency we are forced to break suddenly. Besides, it is hard for riders to be aware of the road without any psychological preparation and notification. Therefore, they cannot react immediately when they encounter road holes. At that time an accident may happen. Through this issue mentioned by the above statement, we have decided to create the ‘Smart Helmet’ to solve this problem effectively.
 
 
-
-
-
-
-
-
-
-
-
 ---
 ### DETAIL STEPS AND EVIDENCE FOR EACH PHASE
 Before we start our project, we need to do some research to have a better understanding of our project. First and foremost, we need to find the problems from the rider’s perspective. For example,  we must know what the rider feels, thinks, and faces while riding. This can help us in doing a project that can fulfill the requirements of the riders and try to solve the problem. We have decided to interview with one of the riders who has a driver’s license for 2 years.
@@ -22,11 +13,12 @@ After we have discovered the problem, we start to sort out the issues from the i
 The next phase is the ideate phase. The ideate phase is a brainstorming process.  We want to find out a solution that can solve the problem that the rider facing. Therefore, we have to do the online discussion through the google meet. All of us have given some solutions based on the problem that we found. 
  ![photo_2024-01-09_21-07-26](https://github.com/JWEN0518/E-PORTFOLIO-SECP1513/assets/152403691/47f2c6a4-09b0-4d69-9fd3-53b50fc2006f)
 
-##( Discussion via Google Meet)
+## ( Discussion via Google Meet)
 
 Throughout the brainstorming process, we have found the most suitable solution to solve all of the problems. We use the ‘All in one’ concept which means we put all the functions or features into one helmet. Next, let’s go to the prototype phase in which we need to convert our imagination to our physical product. 
+![photo_2023-12-18_23-27-36](https://github.com/JWEN0518/E-PORTFOLIO-SECP1513/assets/152403691/8efe0610-0a9f-4c60-b2e5-9046dce86971)
 
-(“Smart Helmet”)
+## (“Smart Helmet”)
 The last step is testing. It is the most pivotal step because this step can prove whether our product is successful or not. Besides, through this testing, we can find out our product’s weaknesses and try to make some improvements until it becomes more complex. Along this testing, we can hear from the different tester opinions.
  
 
@@ -51,7 +43,7 @@ There are many obstacles we encountered while completing this assignment. Firstl
 
 
 
-DESIGN THINKING ASSESSMENT POINT
+###　DESIGN THINKING ASSESSMENT POINT
 Every member of this group has done their best in each phase of the given assessment. The member who conducted the interview with a driver was able to capture all the complaints from the driver about his job. By conducting an interview with a driver, we were able to understand more deeply about the driver's view of his job. And with the completion of the interview, we were able to delve deeper into the meaning of the problems we found and define them so that we could propose existing solutions. We discussed and got several ideas that could solve the problems experienced by the drivers. All members provided brilliant and good ideas. With the ideas that have been generated, we started to make a prototype of the product we proposed. The first prototype is still very lacking, but from there we can find gaps to add updates. After making the first prototype, we found another driver and tested the prototype. The response from the driver was quite satisfying, but of course, there is still room for us to make our project better.
 
 
@@ -70,7 +62,7 @@ Every member of this group has done their best in each phase of the given assess
 
 
 
-DESIGN THINKING EVIDENCE
+###　DESIGN THINKING EVIDENCE
 Sample Work
 There are sample works by us working to solve the design challenge
 
