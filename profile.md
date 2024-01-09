@@ -7,11 +7,11 @@
 #
 
 ### 📄 About Me
-*Name       : Yong Jing Wen*
-*Course     : Brachelor of Computer Science (Software Engineering)*
-*Semester   : 2023/2024*
-*Year       : Year 1*
-*University : University Technology Malaysia*
+##*Name       : Yong Jing Wen*
+##*Course     : Brachelor of Computer Science (Software Engineering)*
+##*Semester   : 2023/2024*
+##*Year       : Year 1*
+##*University : University Technology Malaysia*
 
 ##
 ##
