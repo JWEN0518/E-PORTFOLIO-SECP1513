@@ -16,6 +16,7 @@ The next phase is the ideate phase. The ideate phase is a brainstorming process.
 ## ( Discussion via Google Meet)
 
 Throughout the brainstorming process, we have found the most suitable solution to solve all of the problems. We use the ‘All in one’ concept which means we put all the functions or features into one helmet. Next, let’s go to the prototype phase in which we need to convert our imagination to our physical product. 
+
 ![photo_2023-12-18_23-27-36](https://github.com/JWEN0518/E-PORTFOLIO-SECP1513/assets/152403691/8efe0610-0a9f-4c60-b2e5-9046dce86971)
 
 ## (“Smart Helmet”)
