@@ -19,8 +19,9 @@ Throughout the brainstorming process, we have found the most suitable solution t
 
 ![photo_2023-12-18_23-27-36](https://github.com/JWEN0518/E-PORTFOLIO-SECP1513/assets/152403691/8efe0610-0a9f-4c60-b2e5-9046dce86971)
 
-## (“Smart Helmet”)
-The last step is testing. It is the most pivotal step because this step can prove whether our product is successful or not. Besides, through this testing, we can find out our product’s weaknesses and try to make some improvements until it becomes more complex. Along this testing, we can hear from the different tester opinions.
+(“Smart Helmet”)
+
+　The last step is testing. It is the most pivotal step because this step can prove whether our product is successful or not. Besides, through this testing, we can find out our product’s weaknesses and try to make some improvements until it becomes more complex. Along this testing, we can hear from the different tester opinions.
  
 
 Detailed descriptions
