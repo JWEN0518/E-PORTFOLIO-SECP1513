@@ -3,18 +3,21 @@
 
 <img src="https://github.com/JWEN0518/TIS-REPORT/assets/152403691/02e221c9-8800-4ef3-8c38-b69a5da46aca" alt="Profile Picture" width="150" align="left">
 
-##
-#
+
+<div style="text-align: right;">
 
 ### 📄 About Me
-##*Name       : Yong Jing Wen*
-##*Course     : Brachelor of Computer Science (Software Engineering)*
-##*Semester   : 2023/2024*
-##*Year       : Year 1*
-##*University : University Technology Malaysia*
+
+**Name       :** Yong Jing Wen  
+**Course     :** Bachelor of Computer Science (Software Engineering)  
+**Semester   :** 2023/2024  
+**Year       :** Year 1  
+**University :** University Technology Malaysia
+
+</div>
 
 ##
-##
+
 
 ### 🎓 Education
 
