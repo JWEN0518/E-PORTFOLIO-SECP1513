@@ -6,9 +6,12 @@
 ##
 #
 
-### 📄 Summary
-I am Yong Jing Wen. A Year 1 Software Engineering student in University Technology Malaysia.
-
+### 📄 About Me
+*Name       : Yong Jing Wen*
+*Course     : Brachelor of Computer Science (Software Engineering)*
+*Semester   : 2023/2024*
+*Year       : Year 1*
+*University : University Technology Malaysia*
 
 ##
 ##
@@ -42,7 +45,7 @@ I am Yong Jing Wen. A Year 1 Software Engineering student in University Technolo
 
 ### 📘 Courses
 
-- **📘 Course **  
+- **📘 Course  **  
   *Platform, Completion Year*
 
 - **📘 Course **  
@@ -62,8 +65,8 @@ I am Yong Jing Wen. A Year 1 Software Engineering student in University Technolo
 
 ### 🎖️ Honors and Awards
 
-- **🎖️ Award Name 1**  
-  *Year, Issuing Organization*
+- **🎖️ Award E-Stream Wave**  
+  *Silver award in E-Stream Wave 2021*
 
 - **🎖️ Award Name 2**  
   *Year, Issuing Organization*
