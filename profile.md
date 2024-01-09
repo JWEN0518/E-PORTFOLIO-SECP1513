@@ -76,8 +76,8 @@
 
 ### 🚀 Projects
 
-- **🚀 Project Name 1**  
-  *Description of your role and contributions, Year*
+- **🚀 Project "Smart Helmet"**  
+  *I act as idea Generation who help brainstorm ideas, solutions, and creative approaches to problems or challenges the group may encounter during the project*
 
 - **🚀 Project Name 2**  
   *Description of your role and contributions, Year*
