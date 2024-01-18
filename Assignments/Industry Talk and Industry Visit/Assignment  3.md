@@ -224,6 +224,23 @@ From this design thinking project, I gained a lot of new skills and I was able t
 
 Finally, with this project, I was able to utilize my skills and increase my knowledge. I look forward to the next stages of the project and future projects. Collaborating with the people in this group has helped me hone my skills. They are great people and I am grateful to be able to work with them. I look forward to another time to be able to collaborate with them at another time. I also understand that I need to learn more so as not to be left behind by others. Because I also have a dream to become someone who is proficient in the field that I choose.
 
+---
+## QUESTION FROM AUDIENCE
+
+1. Did you consider the affordability and accessibility of the helmet for a wide range of users?
+   
+   Yes, we have considered this. Therefore, we have created two versions of our product. The price of our first version, 
+   'Smart Helmet,' is cheaper and more affordable for users, but we have added fewer functions to this product. However, 
+   for the second version of the product, it includes more comprehensive functions within the 'Smart Helmet,' making it 
+   more expensive than the first version.
+
+
+
+2. How to control the heads up display?
+   
+   Inside of our "Smart helmet" that contain the microphone .Therefore , "Smart helmet" can be controlled by using the 
+   voice.
+
 
 
 
