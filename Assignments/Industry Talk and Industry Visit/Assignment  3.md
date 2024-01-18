@@ -225,7 +225,7 @@ From this design thinking project, I gained a lot of new skills and I was able t
 Finally, with this project, I was able to utilize my skills and increase my knowledge. I look forward to the next stages of the project and future projects. Collaborating with the people in this group has helped me hone my skills. They are great people and I am grateful to be able to work with them. I look forward to another time to be able to collaborate with them at another time. I also understand that I need to learn more so as not to be left behind by others. Because I also have a dream to become someone who is proficient in the field that I choose.
 
 ---
-## QUESTION FROM AUDIENCE
+## Q & A
 
 1. Did you consider the affordability and accessibility of the helmet for a wide range of users?
    
