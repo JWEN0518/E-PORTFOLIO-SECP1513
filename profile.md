@@ -48,19 +48,15 @@
 
 ### 📘 Courses
 
-- **📘 Course  **  
-  *Platform, Completion Year*
+- **📘 Computer Science  **  
+  *Software engineering in 2023/24*
 
-- **📘 Course **  
-  *Platform, Completion Year*
 
 ### 🏆 Certifications
 
 - **🏆 Certification KAKOM 2023**  
   *Silver in Basketball competition at Matriculasion Melaka*
 
-- **🏆 Certification Name 2**  
-  *Issuing Organization, Year of Certification*
 
 ---
 
@@ -71,13 +67,9 @@
 - **🎖️ Award E-Stream Wave**  
   *Silver award in E-Stream Wave 2021*
 
-- **🎖️ Award Name 2**  
-  *Year, Issuing Organization*
 
 ### 🚀 Projects
 
 - **🚀 Project "Smart Helmet"**  
   *I act as idea Generation who help brainstorm ideas, solutions, and creative approaches to problems or challenges the group may encounter during the project*
 
-- **🚀 Project Name 2**  
-  *Description of your role and contributions, Year*
