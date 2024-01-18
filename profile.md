@@ -60,7 +60,6 @@
 
 ---
 
-## d. Additional: Honors and Awards, Projects
 
 ### 🎖️ Honors and Awards
 
