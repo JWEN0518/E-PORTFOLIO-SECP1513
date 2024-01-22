@@ -1,7 +1,9 @@
 # Profile Sections
 
 
-<img src="https://github.com/JWEN0518/TIS-REPORT/assets/152403691/02e221c9-8800-4ef3-8c38-b69a5da46aca" alt="Profile Picture" width="150" align="left">
+
+<img src="https://github.com/JWEN0518/E-PORTFOLIO-SECP1513/assets/152403691/4654a9e4-d3a2-4fab-8a71-6ea66972aa78" alt="Profile Photo" width="150" align="left">
+
 
 
 <div style="text-align: right;">
