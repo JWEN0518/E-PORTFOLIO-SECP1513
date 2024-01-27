@@ -1,5 +1,7 @@
 ### PC ASSEMBLE
 
+![photo_2024-01-27_19-24-21](https://github.com/JWEN0518/E-PORTFOLIO-SECP1513/assets/152403691/ec9a893f-2ebb-4050-9635-0a256ab742b4)
+
 **Step of PC Assemble**
 
 Step 1: Install the processor.
